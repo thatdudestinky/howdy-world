@@ -1,2 +1,3 @@
 # howdy-world
-my hello world repository
+My name is Gabriel
+I am 15 and take game design.
